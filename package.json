@@ -1,0 +1,15 @@
+{
+  "name": "ejerciciosclase",
+  "version": "1.0.0",
+  "description": "ejercicio realizado con fetch y api simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Era",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
